@@ -50,6 +50,7 @@ export class AppComponent  implements OnInit, AfterViewInit {
   update() {
     this.snake.update();
     this.food.update();
+    this.checkDeath();
   }
 
   draw() {
