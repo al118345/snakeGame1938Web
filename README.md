@@ -1,5 +1,10 @@
 # SnakeGame1938web
 
+El proyecto está explicado en la web https://1938.com.es/juegos-web-angular y un ejemplo de ejecución en la web
+https://1938.com.es/snake-angular
+
+## Información Angular
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
 
 ## Development server
